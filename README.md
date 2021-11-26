@@ -12,3 +12,5 @@ https://mytour.onelink.me/4281031074?af_force_deeplink=true&amp;af_dp=https%3A//
 
 https://mytour.onelink.me/4281031074?af_force_deeplink=true&af_channel=reverse_bid
 
+applinks://mytour.vn/https%3A//mytour.vn/khach-san/45545-green-tree-hotel.html
+
